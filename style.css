@@ -1,6 +1,7 @@
 body { margin: 0;
        padding: 0;
-       background-color: #fff font-size: 12px;
+       background-color: #fff ;
+       font-size: 12px;
        font-family: 'Source Sans Pro', sans-serif;
        -webkit-font-smoothing: subpixel-antialiased;
 }
